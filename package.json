@@ -1,0 +1,8 @@
+{
+  "name": "strikethrough",
+  "version": "0.0.1",
+  "description": "generates strikethrough text l̶i̶k̶e̶ ̶t̶h̶i̶s̶",
+  "bin": {
+    "st": "./st"
+  }
+}
