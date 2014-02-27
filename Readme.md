@@ -17,7 +17,8 @@ To install `st(1)`:
 
 ```js
 $ npm install -g strikethrough
-$ st "some text"
+$ st some text
+s̶o̶m̶e̶ ̶t̶e̶x̶t̶
 ```
 
 ## License
