@@ -13,7 +13,5 @@ module.exports = st;
  */
 
 function st(str){
-  return str.replace(/./g, function(chr){
-    return chr + '\u0336';
-  });
+  return str.replace(/./g, chr => chr + '\u0336');
 }
